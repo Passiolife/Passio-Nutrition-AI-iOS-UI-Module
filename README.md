@@ -3,8 +3,8 @@
 
 ### How to integrate Nutrition-UI module to your current Xcode Project.
 
-> For reference, please check `NutritionEntryViewController`  class in Xcode Project. 
-***Note:*** Don't forget to add `PassioNutritionAISDK`, `FSCalendar`, `SwiftyMarkdown` and `SwipeCellKit` via Swift Package Manager to your current Xcode Project.
+> For reference, please check `NutritionEntryViewController`  class in Xcode Project.
+<br> ***Note:*** Don't forget to add `PassioNutritionAISDK`, `FSCalendar`, `SwiftyMarkdown` and `SwipeCellKit` via Swift Package Manager to your current Xcode Project.
 
 1. Create instance of `PassioConfiguration`
     ***Note:*** You can create your own external PassioConnector class or use the provided one. You need to pass Passio key in PassioConfiguration
